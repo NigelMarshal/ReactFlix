@@ -2,7 +2,7 @@
 
 A modern React-based movie discovery application that allows users to search for movies, view trending content and explore detailed movie information using The Movie Database (TMDB) API.
 
-![ReactFlix](public/hero.png)
+![ReactFlix](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhiNzJyanhtdW9qejZuOW04dG5janYydXBod3QwdmF4N3B2YmltayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oe1kFNiUhLcSA/giphy.gif)
 
 ## ✨ Features
 
